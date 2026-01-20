@@ -1,0 +1,17 @@
+{
+  "name": "03backend-professional-project",
+  "version": "1.0.0",
+  "description": "a professional project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "vikash"
+  ],
+  "license": "ISC",
+  "author": "vikash banwari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
